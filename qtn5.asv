@@ -1,0 +1,14 @@
+clear all;
+close all;
+%we are using the maxmin function that we created to determine the
+%foolowing functions.
+f(x)=2*x^2+9*x-20
+maxmin(2,9,-20)
+x=6.5242
+y=-24.5242
+
+f(x)=-3*x^2+15*x+50
+x=    -20.5842
+y=  65.5842
+   
+   
